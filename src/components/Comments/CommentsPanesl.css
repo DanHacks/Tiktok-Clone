@@ -1,0 +1,14 @@
+.comments-panel {
+    background: #1c1c1c;
+    padding: 20px;
+    color: white;
+  }
+  
+  .comments-panel input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
